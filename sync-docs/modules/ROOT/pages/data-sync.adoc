@@ -10,7 +10,7 @@ Unlike other mobile services which provide a server and an API, Data Sync is a f
 . Design a link:https://graphql.org/learn[GraphQL] schema.
 . Develop a Data Sync server and Data Sync client, with the features you require, for example, real-time updates.
 . Containerize your Data Sync server and deploy it to OpenShift.
-. Bind your mobile app to that Data Sync server.
+//. Bind your mobile app to that Data Sync server.
 . Configure your mobile app to point to the Data Sync server.
 . Complete your mobile app development.
 . Build and run your mobile app.
