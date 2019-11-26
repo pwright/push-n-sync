@@ -1,5 +1,5 @@
 name: aerogear
-title: Data Sync
+title: Push Notifications
 version: 'latest'
 start_ROOT: ROOT:getting-started.adoc
 nav:

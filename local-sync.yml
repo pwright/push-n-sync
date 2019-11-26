@@ -15,7 +15,6 @@ ui:
     snapshot: true
 
 asciidoc:
-  extensions:
   attributes:
     experimental: ''
     idprefix: ''
